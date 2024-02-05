@@ -1,0 +1,2 @@
+# AwsKinesis
+Practicing Aws Kinesis 
